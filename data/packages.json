@@ -1,0 +1,30 @@
+{
+  "packages": [
+    {
+      "id": "kite",
+      "name": "kite",
+      "description": "Flutter UI, theme, responsive utilities, reusable components, extensions and developer helpers.",
+      "version": "0.x",
+      "license": "MIT",
+      "platform": "Flutter",
+      "install": "flutter pub add kite",
+      "pubUrl": "https://pub.dev/packages/kite",
+      "docsUrl": "/products/kite-ui",
+      "repositoryUrl": "https://github.com/orkitt/kite",
+      "badge": "UI"
+    },
+    {
+      "id": "kite-cli",
+      "name": "kite_cli",
+      "description": "Flutter project scaffolding and developer tooling CLI for maintainable project foundations.",
+      "version": "0.x",
+      "license": "MIT",
+      "platform": "Dart CLI",
+      "install": "dart pub global activate kite_cli",
+      "pubUrl": "https://pub.dev/packages/kite_cli",
+      "docsUrl": "/products/kite-cli",
+      "repositoryUrl": "https://github.com/orkitt/kite",
+      "badge": "CLI"
+    }
+  ]
+}

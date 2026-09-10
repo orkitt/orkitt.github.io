@@ -1,0 +1,109 @@
+{
+  "company": {
+    "name": "Orkitt",
+    "eyebrow": "Independent Software Workshop",
+    "tagline": "Useful software. Built properly.",
+    "description": "Developer tools, Flutter packages and practical software with a little old-school personality.",
+    "founded": 2026,
+    "location": "Bangladesh",
+    "email": "hello@orkitt.dev",
+    "github": "https://github.com/orkitt",
+    "pubdev": "https://pub.dev/publishers/orkitt.dev"
+  },
+  "contact": {
+    "hireUrl": "mailto:hello@orkitt.dev?subject=I%20have%20an%20app%20idea",
+    "whatsappUrl": ""
+  },
+  "commerce": {
+    "marketplace": "CodeCanyon",
+    "marketplaceUrl": "https://codecanyon.net/user/orkitt/portfolio"
+  },
+  "hero": {
+    "title": "Useful software. Built properly.",
+    "description": "Orkitt builds developer tools, Flutter packages and practical software for people who prefer useful things over noisy things.",
+    "primaryCta": {
+      "label": "Browse our software",
+      "href": "/products"
+    },
+    "secondaryCta": {
+      "label": "View Pub packages",
+      "href": "/packages"
+    }
+  },
+  "pricing": [
+    {
+      "id": "personal",
+      "name": "Personal",
+      "price": "$0",
+      "description": "For open-source packages and free tools.",
+      "features": [
+        "Open-source packages",
+        "Community updates",
+        "Public documentation",
+        "Personal projects"
+      ],
+      "cta": "Start free",
+      "href": "/packages"
+    },
+    {
+      "id": "developer",
+      "name": "Developer",
+      "price": "$29",
+      "suffix": "per template",
+      "description": "For developers who want to skip repetitive foundation work.",
+      "featured": true,
+      "badge": "BEST VALUE!",
+      "features": [
+        "Premium starter template",
+        "Commercial project use",
+        "Source code",
+        "Future patch updates"
+      ],
+      "cta": "Browse CodeCanyon",
+      "href": "https://codecanyon.net/user/orkitt/portfolio"
+    },
+    {
+      "id": "studio",
+      "name": "Studio",
+      "price": "$79",
+      "suffix": "bundle target",
+      "description": "A placeholder tier for a future studio bundle.",
+      "features": [
+        "Multiple premium templates",
+        "Commercial team use",
+        "Source code",
+        "Priority update notes"
+      ],
+      "cta": "Browse CodeCanyon",
+      "href": "https://codecanyon.net/user/orkitt/portfolio"
+    }
+  ],
+  "about": {
+    "title": "A small software workshop with a long memory.",
+    "intro": "Orkitt is an independent software workshop focused on Flutter tooling, reusable UI and practical applications.",
+    "paragraphs": [
+      "We like software that is understandable, useful and easy to maintain. That means fewer mystery abstractions and more code a developer can actually own.",
+      "The website intentionally borrows the friendly commercial-software look of the early 2010s. The engineering underneath does not: the site is responsive, accessible and built with current Next.js."
+    ],
+    "principles": [
+      "Build useful things",
+      "Keep code understandable",
+      "Make ownership easy",
+      "Prefer personality over generic startup polish"
+    ]
+  },
+  "news": [
+    {
+      "date": "2026-08-12",
+      "title": "Orkitt website iteration one goes online."
+    },
+    {
+      "date": "2026-08-10",
+      "title": "Kite UI component documentation expanded."
+    },
+    {
+      "date": "2026-08-08",
+      "title": "Kite CLI routing and generator workflow refined."
+    }
+  ]
+}
